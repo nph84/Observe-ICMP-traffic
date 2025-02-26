@@ -11,6 +11,8 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Wireshark
+- PowerShell
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -29,3 +31,8 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 <p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
 <br />
 
+<p>  
+<img src="https://github.com/user-attachments/assets/62f8cbd7-5160-4b98-8309-74d4b07b4cd7" 
+</p>
+<p>Install WireShark from within Windows 10 VM</p>
+<br />
