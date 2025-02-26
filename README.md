@@ -48,6 +48,6 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 
 
 <p>  
-<img src="https://github.com/user-attachments/assets/bf756f25-258e-4487-a2c1-324ab98a1de1" </p>
+<img src="https://github.com/user-attachments/assets/5a022431-a06a-4e58-b538-0ff3cf90f01c" </p>
 <p>Open Wireshark and filter for icmp traffic only and ping from within Windows 10 VM</p>
 <br />
