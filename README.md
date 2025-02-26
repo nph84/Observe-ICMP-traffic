@@ -31,8 +31,23 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 <p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
 <br />
 
+
 <p>  
 <img src="https://github.com/user-attachments/assets/62f8cbd7-5160-4b98-8309-74d4b07b4cd7" 
 </p>
 <p>Install WireShark from within Windows 10 VM</p>
+<br />
+
+
+<p>  
+<img src="https://github.com/user-attachments/assets/693ade1b-70c3-4508-a759-628400d668a5" 
+</p>
+<p>Retrieve the private IP address of the Ubuntu VM</p>
+<br />
+
+
+
+<p>  
+<img src="https://github.com/user-attachments/assets/bf756f25-258e-4487-a2c1-324ab98a1de1" </p>
+<p>Open Wireshark and filter for icmp traffic only and ping from within Windows 10 VM</p>
 <br />
