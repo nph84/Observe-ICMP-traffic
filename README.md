@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9f7aa60e-9932-448e-9873-0d06600b8f8a" height="300" width="400"
+<img src="https://github.com/user-attachments/assets/9f7aa60e-9932-448e-9873-0d06600b8f8a" height="250" width="350"
 </p>
 
 <h1>Network-File-Shares-and-Permissions</h1>
