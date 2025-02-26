@@ -4,7 +4,7 @@
 </p>
 
 <h1>Observing ICMP, SSH, DHCP, DNS, and RDP traffic</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and steps to observe ICMP, SSH, DHCP, DNS, and RDP traffic.<br />
 
 
 <h2>Environments and Technologies Used</h2>
