@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/9f7aa60e-9932-448e-9873-0d06600b8f8a" height="250" width="350"
 </p>
 
-<h1>Network-File-Shares-and-Permissions</h1>
+<h1>Observing ICMP, SSH, DHCP, DNS, and RDP traffic</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
