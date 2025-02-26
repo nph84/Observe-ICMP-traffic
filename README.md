@@ -59,8 +59,16 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 <br />
 
 
+<p>  
+<img src="https://github.com/user-attachments/assets/d5ce1f08-e03a-49a9-8600-ece342d80c4c" </p>
+<p>Open network security group on Ubuntu VM and disable incoming ICMP traffic</p>
+<br />
 
 
+<p>  
+<img src="https://github.com/user-attachments/assets/404bd6f6-fa38-4e39-b5f8-1c4c8a9d0cff" </p>
+<p>Observe halted ping traffic</p>
+<br />
 
 
 
