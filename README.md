@@ -51,3 +51,44 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 <img src="https://github.com/user-attachments/assets/5a022431-a06a-4e58-b538-0ff3cf90f01c" </p>
 <p>Open Wireshark and filter for icmp traffic only and ping from within Windows 10 VM</p>
 <br />
+
+
+<p>  
+<img src="https://github.com/user-attachments/assets/c2aa1ef8-b1a8-4d07-9630-30c774d93020" </p>
+<p>Initiate a non-stop ping from Windows 10 VM to Ubuntu VM</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
