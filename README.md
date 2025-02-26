@@ -22,6 +22,9 @@ This tutorial outlines the steps to observe ICMP, SSH, DHCP, DNS, and RDP traffi
 
 <p>
 <img src="https://github.com/user-attachments/assets/a9c3a6e6-3c12-4542-9d0a-797f814db6bb" height="200%" width="200%"
+  </p>
+<p>  
+<img src="https://github.com/user-attachments/assets/e7b132e6-7482-4f6c-b2bb-7e1fef70928c" height="50%" width="50%"
 </p>
 <p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
 <br />
